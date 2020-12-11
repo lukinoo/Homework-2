@@ -23,7 +23,7 @@ header::after {
 .html-logo {
     float: left;
     cursor: pointer;
-    padding: 0 70px 0 0;
+    padding: 0 100px 0 0;
 }
 
 li {
@@ -40,7 +40,7 @@ li a {
 }
 
 li a:hover {
-    color: rgba(223, 18, 18, 0.781);
+    color: rgb(209, 9, 9);
 }
 
 .social-networks {
@@ -53,7 +53,7 @@ li a:hover {
 .scl::after {
     content: '';
     border-right:1px solid #363E97;
-    padding: 4px;
+    padding: 2px;
 }
 
 #search-icon::after {
